@@ -1,0 +1,17 @@
+# Virtual environments
+.venv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+*.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tests
+.coverage
