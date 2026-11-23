@@ -1,10 +1,3 @@
-"""
-__init__ module
-"""
+"""Calculator library of the MLOps lab demo (business logic shared by the CLI and the API)."""
 
-__version__ = "1.0.0"
-__author__ = "Diego Suarez Etulain"
-
-print(f"Loading {__name__} version {__version__}")
-
-__all__ = ["__version__"]
+__version__ = "0.2.0"
